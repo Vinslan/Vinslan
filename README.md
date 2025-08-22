@@ -8,7 +8,7 @@ I'm **Ruslan Gocov** from 🇲🇩 Moldova.
 - **QA Testing**
 - **Java** / **Spring** / **Spring Boot**
 - **Selenium**
-- **HTML** / **CSS** / **JavaScript** (basic)
+- **HTML** / **CSS** / **JavaScript**
 - **Python**
 - **MySQL**
 
