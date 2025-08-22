@@ -14,7 +14,7 @@ I'm **Ruslan Gocov** from 🇲🇩 Moldova.
 ## 💼 Work Experience
 
 Midnight.Works 2024 - Present
-I work as a **QA Specialist in Gamedev**, where I have learned to:  
+ I work as a **QA Specialist in Gamedev**, where I have learned to:  
 - Work with platforms such as **Android, iOS, Playstation, Nintendo**  
 - Write **documentation**  
 - **Automate tasks** and write **scripts** to simplify work  
